@@ -34,9 +34,9 @@
 **<h3>🤖 Test Management, Test Automation and Bug Tracker Tools </h3>**  
 
 ![Postman](https://img.shields.io/badge/Postman-100000?style=for-the-badge&logo=Postman&logoColor=white&labelColor=000000&color=FF5E0D) 
-![Swagger](https://img.shields.io/badge/Swagger-100000?style=for-the-badge&logo=swagger&logoColor=white&labelColor=1E590E&color=000) 
-![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white&labelColor=354561F&color=000000)
-![SQL](https://img.shields.io/badge/sqL-100000?style=for-the-badge&logo=MYSQL&logoColor=FFFFFF&labelColor=2F324F&color=1C51CD) 
+![Swagger](https://img.shields.io/badge/Swagger-100000?style=for-the-badge&logo=swagger&logoColor=white&labelColor=1E590E&color=1E590E) 
+![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white&labelColor=354561F&color=354561F)
+![SQL](https://img.shields.io/badge/sqL-100000?style=for-the-badge&logo=MYSQL&logoColor=FFFFFF&labelColor=2F324F&color=2F324F) 
 ![Redmine](https://img.shields.io/badge/Redmine-100000?style=for-the-badge&logo=Redmine&logoColor=white&labelColor=5C0606&color=FF170F) 
 ![Mantis](https://img.shields.io/badge/MANTIS-100000?style=for-the-badge&logo=mega&logoColor=FFFFFF&labelColor=354561F&color=428629) 
 ![Testlink](https://img.shields.io/badge/TestLink-100000?style=for-the-badge&logo=Talenthouse&logoColor=white&labelColor=616D04&color=E7E118) 
