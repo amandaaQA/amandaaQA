@@ -18,6 +18,8 @@
 
 * ⏩  I'm specializing [Programa de Testes e Qualidade de Software by Júlio de Lima](https://www.juliodelima.com.br/mentoria/) and also learning Java and Selenium;  
 
+* 💼 1% better every day
+
 ---------------------
 
 &nbsp;
