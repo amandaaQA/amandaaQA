@@ -43,19 +43,19 @@
 
 <div align="left">
   
- <img src="https://seeklogo.com/images/P/postman-logo-F43375A2EB-seeklogo.com.png" height="40" alt="postman logo"  />
-<img width="12" />
-<img src="https://www.svgrepo.com/show/354202/postman-icon.svg" height="40" alt="postman logo"  />
+   <img src="https://tomiturtiainen.gallerycdn.vsassets.io/extensions/tomiturtiainen/rf-intellisense/2.8.0/1572279203487/Microsoft.VisualStudio.Services.Icons.Default" height="40" alt="Robot logo"  />
+  <img width="12" />
+  <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" height="40" alt="postman logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" height="40" alt="selenium logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
-
-<img src="https://cavedweller92.files.wordpress.com/2019/07/swagger-logo-horizontal.png" height="40" alt="swaggerlogo"  />
+  
+  <img src="https://cavedweller92.files.wordpress.com/2019/07/swagger-logo-horizontal.png" height="40" alt="swaggerlogo"  />
   <img width="12" />
   <img src="https://img2.gratispng.com/20180624/zly/kisspng-mantis-bug-tracker-bug-tracking-system-issue-track-5b2f94c7894ab2.4690820415298449355624.jpg" height="40" alt="mantis logo"  />
   <img src="https://img.favpng.com/10/0/19/redmine-computer-icons-logo-clip-art-png-favpng-r5S8zb8pzH4WhYwL1t9BjX4J6.jpg" height="40" alt="redmine logo"  />
@@ -77,7 +77,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
-  </div>
+</div>
   
 ---------
 ### 📑 Publications:
@@ -85,8 +85,5 @@
 * [IEEE TIM - A portable surface plasmons resonance sensor based on single-board computer](https://ieeexplore.ieee.org/document/9989399)
 * [2021 SBMO/IEEE MTT-S - Project of a portable surface plasmons ressonance sensor based on single-board computer](https://ieeexplore.ieee.org/document/9624867)
 
-&nbsp;
 -------
 
-### 😂 Random Meme 
-<img src="https://rm.up.railway.app/" width="512px"/>
