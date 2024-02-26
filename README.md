@@ -47,6 +47,16 @@
 ![redmine](https://img.shields.io/static/v1?logo=redmine&label=&message=redmine&color=36465D&logoColor=AAA&style=flat-square)
 ![mantis](https://img.shields.io/static/v1?logo=&label=&message=mantis&color=36465D&logoColor=AAA&style=flat-square)
 ![testLink](https://img.shields.io/static/v1?logo=testLink&label=&message=testLink&color=36465D&logoColor=AAA&style=flat-square)
+
+---------
+
+<details OPEN><summary>📑 Projects from Challanges or Courses
+</summary>
+
+* [🤖 ServeRest  - API Test Automation with Robot Framework](https://github.com/Amandafreitas/RobotFramework.API.ServerREST)
+* [🌐 Lojinha  - API Test Automation with RestAssured and JUnit](https://github.com/Amandafreitas/RestAssured.API.Lojinha)
+* [🤖 SauceDemo  - WEB Test Automation with Robot Framework](https://github.com/Amandafreitas/RobotFramework.AutomacaoWeb.SauceDemo)
+</details>
   
 ---------
 
