@@ -36,7 +36,10 @@
 ![docker](https://img.shields.io/static/v1?logo=docker&label=&message=docker&color=36465D&logoColor=AAA&style=flat-square)
 ![mysql](https://img.shields.io/static/v1?logo=mysql&label=&message=mysql&color=36465D&logoColor=AAA&style=flat-square)
 ![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=36465D&logoColor=AAA&style=flat-square)
+![github](https://img.shields.io/static/v1?logo=github&label=&message=github&color=36465D&logoColor=AAA&style=flat-square)
 ![swagger](https://img.shields.io/static/v1?logo=swagger&label=&message=swagger&color=36465D&logoColor=AAA&style=flat-square)
+![vscode](https://img.shields.io/static/v1?logo=vscode&label=&message=vscode&color=36465D&logoColor=AAA&style=flat-square)
+![sublime](https://img.shields.io/static/v1?logo=sublime&label=&message=sublime&color=36465D&logoColor=AAA&style=flat-square)
 &nbsp;&nbsp;&nbsp; </br>
 ![management](https://img.shields.io/static/v1?label=&message=management:&color=111&style=flat-square)
 ![azure](https://img.shields.io/static/v1?logo=azure&label=&message=azure&color=36465D&logoColor=AAA&style=flat-square)
