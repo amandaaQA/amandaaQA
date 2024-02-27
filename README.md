@@ -42,7 +42,7 @@
 ![sublime](https://img.shields.io/static/v1?logo=sublime&label=&message=sublime&color=36465D&logoColor=AAA&style=flat-square)
 &nbsp;&nbsp;&nbsp; </br>
 ![management](https://img.shields.io/static/v1?label=&message=management:&color=111&style=flat-square)
-![azure](https://img.shields.io/static/v1?logo=azure&label=&message=azure&color=36465D&logoColor=AAA&style=flat-square)
+![azureDevOps](https://img.shields.io/static/v1?logo=azureDevOps&label=&message=azureDevOps&color=36465D&logoColor=AAA&style=flat-square)
 ![jira](https://img.shields.io/static/v1?logo=jira&label=&message=jira&color=36465D&logoColor=AAA&style=flat-square)
 ![redmine](https://img.shields.io/static/v1?logo=redmine&label=&message=redmine&color=36465D&logoColor=AAA&style=flat-square)
 ![mantis](https://img.shields.io/static/v1?logo=&label=&message=mantis&color=36465D&logoColor=AAA&style=flat-square)
