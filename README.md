@@ -53,15 +53,17 @@
 
 <details OPEN><summary>📑 Projects from Challanges or Courses
 </summary>
+
 * [📈 JMeter  - Continuous Load Testing with GitHub Actions](https://github.com/amandaaQA/JmeterCICD.PerformanceTest_BlazeDemo)
 * [🤖 ServeRest  - API Test Automation with Robot Framework](https://github.com/Amandafreitas/RobotFramework.API.ServerREST)
 * [🌐 Lojinha  - API Test Automation with RestAssured and JUnit](https://github.com/Amandafreitas/RestAssured.API.Lojinha)
 * [🤖 SauceDemo  - WEB Test Automation with Robot Framework](https://github.com/Amandafreitas/RobotFramework.AutomacaoWeb.SauceDemo)
+  
 </details>
   
 ---------
 
-<details><summary>📑 Publications</summary>
+<details OPEN><summary>📑 Publications</summary>
 
 * [IEEE TIM - A portable surface plasmons resonance sensor based on single-board computer](https://ieeexplore.ieee.org/document/9989399)
 * [2021 SBMO/IEEE MTT-S - Project of a portable surface plasmons ressonance sensor based on single-board computer](https://ieeexplore.ieee.org/document/9624867)
