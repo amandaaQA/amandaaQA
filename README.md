@@ -53,7 +53,7 @@
 
 <details OPEN><summary>📑 Projects from Challanges or Courses
 </summary>
-* [📈 JMeter  - Continuous Load Testing with GitHub Actions]([https://github.com/Amandafreitas/RobotFramework.API.ServerREST](https://github.com/amandaaQA/JmeterCICD.PerformanceTest_BlazeDemo))
+* [📈 JMeter  - Continuous Load Testing with GitHub Actions](https://github.com/amandaaQA/JmeterCICD.PerformanceTest_BlazeDemo)
 * [🤖 ServeRest  - API Test Automation with Robot Framework](https://github.com/Amandafreitas/RobotFramework.API.ServerREST)
 * [🌐 Lojinha  - API Test Automation with RestAssured and JUnit](https://github.com/Amandafreitas/RestAssured.API.Lojinha)
 * [🤖 SauceDemo  - WEB Test Automation with Robot Framework](https://github.com/Amandafreitas/RobotFramework.AutomacaoWeb.SauceDemo)
