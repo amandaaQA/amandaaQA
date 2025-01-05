@@ -27,13 +27,13 @@
 ![javascript](https://img.shields.io/static/v1?logo=javascript&label=&message=javascript&color=36465D&logoColor=AAA&style=flat-square)
 &nbsp;&nbsp;&nbsp; </br>
 ![automation_tools](https://img.shields.io/static/v1?label=&message=automation_tools:&color=111&style=flat-square)
+![JMeter](https://img.shields.io/static/v1?logo=JMeter&label=&message=JMeter&color=36465D&logoColor=AAA&style=flat-square)
 ![Robot Framework](https://img.shields.io/static/v1?logo=robot&label=&message=robotFramework&color=36465D&logoColor=AAA&style=flat-square)
 ![selenium](https://img.shields.io/static/v1?logo=selenium&label=&message=selenium&color=36465D&logoColor=AAA&style=flat-square)
 ![restassured](https://img.shields.io/static/v1?logo=restAssured&label=&message=restAssured&color=36465D&logoColor=AAA&style=flat-square)
 ![postman](https://img.shields.io/static/v1?logo=postman&label=&message=postman&color=36465D&logoColor=AAA&style=flat-square)
 &nbsp;&nbsp;&nbsp; </br>
 ![tools](https://img.shields.io/static/v1?label=&message=tools:&color=111&style=flat-square)
-![JMeter](https://img.shields.io/static/v1?logo=JMeter&label=&message=JMeter&color=36465D&logoColor=AAA&style=flat-square)
 ![docker](https://img.shields.io/static/v1?logo=docker&label=&message=docker&color=36465D&logoColor=AAA&style=flat-square)
 ![mysql](https://img.shields.io/static/v1?logo=mysql&label=&message=mysql&color=36465D&logoColor=AAA&style=flat-square)
 ![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=36465D&logoColor=AAA&style=flat-square)
